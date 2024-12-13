@@ -1,0 +1,11 @@
+streamlit
+psycopg2-binary
+pandas
+matplotlib
+beautifulsoup4
+requests
+schedule
+time
+threading
+random
+
